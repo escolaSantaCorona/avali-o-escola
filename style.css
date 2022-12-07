@@ -135,8 +135,9 @@ input[type="checkbox"] {
   select {
     width: 100%;
   }
-  #manha-tarde-campo{
+  #manha-tarde-campo,#nao-aplica{
     width: 150%;
+    font-size: 15px;
   }
 }
 
